@@ -1,0 +1,99 @@
+ form{
+    padding-right: 180px !important;
+}
+
+
+label.col-sm-3.col-form-label.text-end.fw-bold{
+    text-align-last: start;
+}
+
+
+.col-sm-3{
+    width: 20%;
+    
+}
+
+
+.bg-light.text-center.rounded.p-4{
+    padding-left: 120px !important;
+}
+
+button.btn.btn-primary.btn-lg.btn-block {
+    margin-left: 410;
+}
+
+
+.profile_img{
+    
+    width: 200px;
+    
+}
+
+/******************************************************************* Profiel  ***************************************************************/
+.p_container{
+    width: 1vh;
+    margin-left: 20px;
+    padding-top: 30px;
+
+}
+.title{
+    padding-top:20px;
+    padding-left:20px;
+}
+
+hr{
+    margin-top: 20px;
+
+}
+
+.p_content{
+    padding-top:80px;
+    width: 1200px;
+    height: 500px;
+}
+.profile_img{
+    min-width:100px; 
+    min-height: 200px;
+    float:left;
+    margin-right: 10px;
+    margin-left: 10%;
+}
+
+.prof_info{
+display: inline;
+
+}
+
+.p_row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+}
+
+.card {
+    margin-left: 20%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 1200px;
+    height: 500px;
+  }
+
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .container{
+    height: 300px;
+  }
+  .container {
+    padding: 2px 16px;
+  }
+
+
+  /* #alertMsg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 8em; 
+    height: 2em; 
+    margin: 10px auto;
+  } */
